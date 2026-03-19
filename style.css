@@ -103,7 +103,7 @@ firstView
   justify-content: center;
   align-items: center;
   height: 500px;
-  background: url('../image/FV.png') no-repeat center/cover;
+  background: url('image/FV.png') no-repeat center/cover;
   width: 100%;
   @media screen and (max-width: 768px) {
 		height: 540px;
